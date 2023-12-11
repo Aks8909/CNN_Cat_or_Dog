@@ -6,7 +6,7 @@ of artificial neural network designed for processing structured grid data, such 
 images. CNNs are particularly effective in tasks related to computer vision, image 
 recognition, and pattern analysis.
 
-I have just uploaded the code and not the dataset as the dataset consists of about
+I have just uploaded the code and not the dataset as the dataset consists of
 8000 images in the training set and 2000 images in the test set which takes a lot
 of space.
   
